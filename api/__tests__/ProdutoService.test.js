@@ -54,8 +54,6 @@ describe("ProdutoService - Escrita", () => {
 });
 
 
-
-
 //Da aula com o professor 
 // const ProdutoService = require("../services/ProdutoService");
 

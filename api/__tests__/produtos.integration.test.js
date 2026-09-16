@@ -1,4 +1,4 @@
-
+//Exercicios 
 //API /produtos (integracao com supertest)
 
 const request = require("supertest");
@@ -75,6 +75,8 @@ describe("API /produtos testes de integracao - Escrita", () => {
         });
     });
 });
+
+
 //Esse é do professor 
 // const request = require("supertest");
 // const createApp = require("../app");
